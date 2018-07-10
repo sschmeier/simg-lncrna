@@ -1,7 +1,6 @@
 # Singularity config for simg-lncrna container
 
-A [Singularity Hub](https://www.singularity-hub.org/) definition for learning purposes.
-An associated tutorial on genomics can be found at [http://reproducible.sschmeier.com](http://reproducible.sschmeier.com).
+A [Singularity Hub](https://www.singularity-hub.org/) definition for lncRNA workflow.
 
 If [Singularity](http://singularity.lbl.gov) is installed locally, the container can be build (needs root access) locally like this:
 
