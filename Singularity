@@ -28,4 +28,5 @@ From: continuumio/miniconda3:4.5.4
    conda install --yes ucsc-gtftogenepred=357
    conda install --yes circexplorer2=2.3.2
    conda install --yes bedtools=2.27.1
+   conda install --yes salmon=0.10.2
    conda clean --index-cache --tarballs --packages --yes
