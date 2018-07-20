@@ -26,5 +26,6 @@ From: continuumio/miniconda3:4.5.4
    conda install --yes gffcompare=0.10.1
    conda install --yes gffread=0.9.9
    conda install --yes bioawk=1.0
+   conda install --yes pandas=0.23.3
    conda install --yes colorama=0.3.9
    conda clean --index-cache --tarballs --packages --yes
